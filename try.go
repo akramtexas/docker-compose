@@ -1,4 +1,4 @@
-package executor
+package docker_compose
 
 import "errors"
 
