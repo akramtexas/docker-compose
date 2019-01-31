@@ -10,3 +10,13 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Some IDE-related ignores!
+.idea/
+vendor
+*.exe
+*.DS_Store
+.project
+.vscode/
+
+
